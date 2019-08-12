@@ -1,4 +1,4 @@
-# comic_platform
+# operator_platform
 
 > A Vue.js project
 
