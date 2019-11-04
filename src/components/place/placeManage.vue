@@ -542,7 +542,6 @@ export default {
         plan: ["id", "place_id", "ad", "ed"],
         set: ["id", "place_id", "ad", "ed"]
       },
-
       //标签属性
       inputValue: "",
       inputVisible: false, //标签
@@ -796,7 +795,7 @@ export default {
       //表格数据
       tableData: [],
       formHide: {
-        place: ["id", "landlord_id", "ed", "ad"]
+        place: ["id", "map_xy", "landlord_id", "ed", "ad"]
       },
       //表单数据
       formData: {},
